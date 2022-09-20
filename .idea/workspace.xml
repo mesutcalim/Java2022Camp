@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7810768e-e455-41a1-8f23-d035f880e1a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java2022.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework1/Java16/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="7810768e-e455-41a1-8f23-d035f880e1a1" name="Changes" comment="Tamamlandı." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,9 +38,15 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/mesut/IdeaProjects/Java102"
+    "last_opened_file_path": "C:/Users/mesut/Desktop/Java2022"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mesut\Desktop\Java2022\src\Homework1" />
+      <recent name="C:\Users\mesut\Desktop\Java2022\src" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Homework1.SayiBulma.Main">
     <configuration name="Homework1.ArkadasSayilar.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework1.ArkadasSayilar.Main" />
@@ -122,6 +118,14 @@
       <option name="presentableId" value="Default" />
       <updated>1663182628868</updated>
     </task>
+    <task id="LOCAL-00001" summary="Tamamlandı.">
+      <created>1663678555505</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663678555505</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,5 +138,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tamamlandı." />
+    <option name="LAST_COMMIT_MESSAGE" value="Tamamlandı." />
   </component>
 </project>
