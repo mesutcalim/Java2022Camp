@@ -34,20 +34,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/mesut/Desktop/Java2022"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mesut/Desktop/Java2022&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mesut\Desktop\Java2022\src\Homework1" />
       <recent name="C:\Users\mesut\Desktop\Java2022\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Homework1.SayiBulma.Main">
+  <component name="RunManager" selected="Application.Homework3.Odev2.Main">
     <configuration name="Homework1.ArkadasSayilar.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework1.ArkadasSayilar.Main" />
       <module name="Java2022" />
@@ -87,6 +87,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Homework3.Odev2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework3.Odev2.Main" />
+      <module name="Java2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework3.Odev2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework1.SesliHarfler.Main" />
       <module name="Java2022" />
@@ -102,6 +115,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Homework3.Odev2.Main" />
         <item itemvalue="Application.Homework1.SayiBulma.Main" />
         <item itemvalue="Application.Homework1.ArkadasSayilar.Main" />
         <item itemvalue="Application.Homework1.MukemmelSayi.Main" />
