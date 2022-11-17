@@ -1,6 +1,6 @@
 
 
 
-## 2.Ödev Çok gereksiz olduğu ve bu konular için vakit kaybı olmaması amacı ile yapılmamıştır.
+## 2.Ödev Eksiksiz şekilde tamamlanmıştır.
 
-* Zaten bu videolar BTK Akademi üzerinden çok önceden izlenmiştir.
+* Zaten bu videolar BTK Akademi üzerinden de çok önceden izlenmiştir.
