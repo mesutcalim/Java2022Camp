@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7810768e-e455-41a1-8f23-d035f880e1a1" name="Changes" comment="Tamamlandı.">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -42,25 +42,32 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/mesut.calim/IdeaProjects/Java2022Camp/src/Homework2/MethodOverloading"
+    "last_opened_file_path": "C:/Users/mesut.calim/IdeaProjects/Java2022Camp/src/Homework2/Overriding"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mesut.calim\IdeaProjects\Java2022Camp\src\Homework2\Overriding" />
+      <recent name="C:\Users\mesut.calim\IdeaProjects\Java2022Camp\src\Homework2\Inheritance\InheritanceAnlamak" />
       <recent name="C:\Users\mesut.calim\IdeaProjects\Java2022Camp\src\Homework2\MethodOverloading" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mesut\Desktop\Java2022\src\Homework1" />
       <recent name="C:\Users\mesut\Desktop\Java2022\src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Homework2.Interfaces" />
+      <recent name="Homework2.AbstractClasses.AbstractDemo" />
+      <recent name="Homework2.AbstractClasses.GameCalculator" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Homework2.MethodOverloading.Main">
-    <configuration name="Homework2.ClassesWithAttributes.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework2.ClassesWithAttributes.Main" />
+  <component name="RunManager" selected="Application.Homework2.StaticDemo.Main">
+    <configuration name="Homework2.AbstractClasses.AbstractDemo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework2.AbstractClasses.AbstractDemo.Main" />
       <module name="Java2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework2.ClassesWithAttributes.*" />
+          <option name="PATTERN" value="Homework2.AbstractClasses.AbstractDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework2.MethodOverloading.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework2.MethodOverloading.Main" />
+    <configuration name="Homework2.AbstractClasses.GameCalculator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework2.AbstractClasses.GameCalculator.Main" />
       <module name="Java2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework2.MethodOverloading.*" />
+          <option name="PATTERN" value="Homework2.AbstractClasses.GameCalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework2.ReCapDemo_Classes.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework2.ReCapDemo_Classes.Main" />
+    <configuration name="Homework2.Interfaces.InterfacesCustomerDal.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework2.Interfaces.InterfacesCustomerDal.Main" />
       <module name="Java2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework2.ReCapDemo_Classes.*" />
+          <option name="PATTERN" value="Homework2.Interfaces.InterfacesCustomerDal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework2.ClasslarlaCalisma.Main" />
+    <configuration name="Homework2.Overriding.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework2.Overriding.Main" />
       <module name="Java2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework2.ClasslarlaCalisma.*" />
+          <option name="PATTERN" value="Homework2.Overriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="methods2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework2.Metodlar.methods2" />
+    <configuration name="Homework2.StaticDemo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework2.StaticDemo.Main" />
       <module name="Java2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework2.Metodlar.*" />
+          <option name="PATTERN" value="Homework2.StaticDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Homework2.MethodOverloading.Main" />
-        <item itemvalue="Application.Homework2.ClassesWithAttributes.Main" />
-        <item itemvalue="Application.Homework2.ReCapDemo_Classes.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.methods2" />
+        <item itemvalue="Application.Homework2.StaticDemo.Main" />
+        <item itemvalue="Application.Homework2.Interfaces.InterfacesCustomerDal.Main" />
+        <item itemvalue="Application.Homework2.AbstractClasses.AbstractDemo.Main" />
+        <item itemvalue="Application.Homework2.AbstractClasses.GameCalculator.Main" />
+        <item itemvalue="Application.Homework2.Overriding.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +145,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663182628868</updated>
-      <workItem from="1668601588002" duration="5896000" />
+      <workItem from="1668601588002" duration="6282000" />
+      <workItem from="1668635262473" duration="431000" />
+      <workItem from="1668668568156" duration="11246000" />
     </task>
     <task id="LOCAL-00001" summary="Tamamlandı.">
       <created>1663678555505</created>
@@ -147,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663678555505</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Tamamlandı.">
+      <created>1668609366482</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668609366482</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
